@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/B.png</file>
+        <file>images/Download.png</file>
+        <file>images/I.png</file>
+        <file>images/load.png</file>
+        <file>images/LoginToken.png</file>
+        <file>images/MainToken.png</file>
+        <file>images/U.png</file>
+        <file>images/fresh.png</file>
+        <file>images/Login.jpg</file>
+        <file>images/call.png</file>
+        <file>images/BG.jpg</file>
+        <file>images/BG2.jpeg</file>
+    </qresource>
+</RCC>
